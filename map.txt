@@ -1,0 +1,6 @@
+|||LeaveCastleRoom|
+||WitcherRoom|NithralRoom|
+||EmptyPath||
+||SnakeRoom||
+||BerserkerRoom||
+WitchArmyRoom|EmptyPath|StartingRoom|EmptyPath|FindDaggerRoom

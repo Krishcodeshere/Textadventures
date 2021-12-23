@@ -1,0 +1,6 @@
+|||TowerRoom|
+||GuardRoom||
+||EmptyPath||
+||BearRoom||
+MonsterRoom|EmptyPath|LeaveCastleRoom|EmptyPath|WolfRoom
+
